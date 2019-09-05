@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "@babel/preset-env", //增加 ES6 的 babel preset 配置
+        "@babel/preset-react" //增加 React 的 babel preset 配置
+    ],
+    "plugins": [
+        "@babel/plugin-syntax-dynamic-import"
+    ]
+}

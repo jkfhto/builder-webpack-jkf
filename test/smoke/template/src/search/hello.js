@@ -1,0 +1,1 @@
+module.exports = "动态 import hello";
